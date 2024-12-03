@@ -4,3 +4,4 @@
 3. PYTHON TRICKS (ONGOING)
 4. Problems Solved By Me (ONGOING)
 5.[Watch the video]([https://www.youtube.com/watch?v=exampleID](https://www.youtube.com/watch?v=BlEWmTzc8ws))
+[![Watch the video](https://img.youtube.com/vi/_5tFXJQIzi4/0.jpg)]
